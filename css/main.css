@@ -1,1 +1,93 @@
 
+
+
+body {
+	background-color: #34856a;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #47cfc1;
+	padding: 20px 0;
+	text-align: center;
+	border-color: #fff;
+}
+
+.title-cover {
+	background-color: #34856a;
+	padding: 50px;
+	font-size: 48px;
+	margin-right: 400px;
+	margin-left: 400px;
+	color: #fff;
+}
+
+.sec1{
+	color: #fff;
+
+}
+
+.sec1 .dog1 img {
+	width: 25%;
+	float: left;
+	margin-left: 5%;
+	margin-top: 2%;
+	height: auto;
+	border: solid 10px #31486b;
+}
+
+.sec1 .text-wrap {
+	background-color: #31486b;
+	float: left;
+	width: 30%;
+	margin-left: 5%;
+	margin-top: 2%;
+	font
+}
+
+.sec1 .para-text {
+	background-color: #31486b;
+	float: left;
+	width: 30%;
+	margin-left: 5%;
+	margin-top: 5%;
+
+
+}
+
+.sec1 .dog2 img{
+	width: 30%;
+	float: right;
+	height: auto;
+	border: solid 10px #31486b;
+	margin-right: 1%;
+}
+
+.sec1 .para-text p {
+	padding: 5%;
+}
+
+hr {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+
+
+
+
+
+
+.whte {
+	color: #fff;
+	margin-right:3.5%;
+	float:right;
+}
+
+
+.footer {
+  padding-top: 50%;
+   color: #fff;
+   margin-left: 4%;
+   font-size: 8px;
